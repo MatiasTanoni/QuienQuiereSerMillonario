@@ -1,0 +1,167 @@
+[
+    {
+        "premio": 100,
+        "enunciado": "¿Cual es la capital de Francia?",
+        "opciones": [
+            "Madrid",
+            "París",
+            "Londres",
+            "Roma"
+        ],
+        "respuesta_correcta": "París"
+    },
+    {
+        "premio": 200,
+        "enunciado": "¿Cuantos dedos tiene una mano?",
+        "opciones": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "respuesta_correcta": "5"
+    },
+    {
+        "premio": 300,
+        "enunciado": "¿Cuantos dias tiene una semana?",
+        "opciones": [
+            "5",
+            "6",
+            "8",
+            "7"
+        ],
+        "respuesta_correcta": "7"
+    },
+    {
+        "premio": 500,
+        "enunciado": "¿Cual es el color del cielo en un despejado despejado?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Azul",
+            "Amarillo"
+        ],
+        "respuesta_correcta": "Azul"
+    },
+    {
+        "premio": 1000,
+        "enunciado": "Cuantas patas tiene una araña?",
+        "opciones": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "respuesta_correcta": "8"
+    },
+    {
+        "premio": 2000,
+        "enunciado": "¿Cual es el oceano más grande del mundo?",
+        "opciones": [
+            "Atlantico",
+            "Indico",
+            "Pacifico",
+            "Artico"
+        ],
+        "respuesta_correcta": "Pacifico"
+    },
+    {
+        "premio": 4000,
+        "enunciado": "¿Quién escribio 'Romeo y Julieta'?",
+        "opciones": [
+            "William Shakespeare",
+            "Jane Austen",
+            "Charles Dickens",
+            "Mark Twain"
+        ],
+        "respuesta_correcta": "William Shakespeare"
+    },
+    {
+        "premio": 8000,
+        "enunciado": "¿Cuantas letras tiene la palabra 'elefante'?",
+        "opciones": [
+            "6",
+            "10",
+            "8",
+            "12"
+        ],
+        "respuesta_correcta": "8"
+    },
+    {
+        "premio": 16000,
+        "enunciado": "¿Cual planeta es conocido como 'el planeta rojo'?",
+        "opciones": [
+            "Jupiter",
+            "Marte",
+            "Venus",
+            "Saturno"
+        ],
+        "respuesta_correcta": "Marte"
+    },
+    {
+        "premio": 32000,
+        "enunciado": "¿Cuantos lados tiene un cuadrado?",
+        "opciones": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "respuesta_correcta": "4"
+    },
+    {
+        "premio": 64000,
+        "enunciado": "¿Quién pinto la Mona Lisa?",
+        "opciones": [
+            "Vincent van Gogh",
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Clause Monet"
+        ],
+        "respuesta_correcta": "Leonardo da Vinci"
+    },
+    {
+        "premio": 125000,
+        "enunciado": "¿Cual es la capital de Japón?",
+        "opciones": [
+            "Buenos Aires",
+            "Pekín",
+            "Tokio",
+            "Bangkok"
+        ],
+        "respuesta_correcta": "Tokio"
+    },
+    {
+        "premio": 250000,
+        "enunciado": "¿Cual animal es conocido como 'el rey de la selva'?",
+        "opciones": [
+            "Elefante",
+            "Leon",
+            "Tigre",
+            "Gorila"
+        ],
+        "respuesta_correcta": "Leon"
+    },
+    {
+        "premio": 500000,
+        "enunciado": "¿En que continente se encuentra la Gran Muralla China?",
+        "opciones": [
+            "Europa",
+            "Asia",
+            "America",
+            "Oceania"
+        ],
+        "respuesta_correcta": "Asia"
+    },
+    {
+        "premio": 1000000,
+        "enunciado": "En que año se llevo a cabo la independencia de Estados Unidos?",
+        "opciones": [
+            "1776",
+            "1789",
+            "1804",
+            "1812"
+        ],
+        "respuesta_correcta": "1776"
+    }
+]
