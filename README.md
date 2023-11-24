@@ -5,7 +5,7 @@ DNI:46359695
 
 FOTO DEL JUEGO:
 
-![](https://github.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/blob/master/imagenes/Captura%20de%20pantalla%202023-10-26%20230308.png)
+![](https://raw.githubusercontent.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/master/imagenes/Captura%20de%20pantalla%202023-11-24%20190208.png?token=GHSAT0AAAAAACJAWQ66NKOWE3EGRO26KEIIZLBD4EA)
 
 FOTO DEL MENU:
 
