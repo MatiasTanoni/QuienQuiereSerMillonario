@@ -9,7 +9,7 @@ FOTO DEL JUEGO:
 
 FOTO DEL MENU:
 
-![](https://raw.githubusercontent.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/master/imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png?token=GHSAT0AAAAAACJAWQ66XTPVA25VNHBQV2UQZLBDVHA)
+![](https://raw.githubusercontent.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/master/imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png?token=GHSAT0AAAAAACJAWQ6636PJ7OGZVXRCIYMMZLBD5GQ)
 
 DESCRIPCIÓN:
 
