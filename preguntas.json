@@ -25,7 +25,7 @@
         "premio": 300,
         "enunciado": "¿Cuantos dias tiene una semana?",
         "opciones": [
-            "5",
+            "4",
             "6",
             "8",
             "7"
@@ -37,8 +37,8 @@
         "enunciado": "¿Cual es el color del cielo en un despejado despejado?",
         "opciones": [
             "Rojo",
-            "Verde",
             "Azul",
+            "Verde",
             "Amarillo"
         ],
         "respuesta_correcta": "Azul"
@@ -59,8 +59,8 @@
         "enunciado": "¿Cual es el oceano más grande del mundo?",
         "opciones": [
             "Atlantico",
-            "Indico",
             "Pacifico",
+            "Indico",
             "Artico"
         ],
         "respuesta_correcta": "Pacifico"
@@ -69,10 +69,10 @@
         "premio": 4000,
         "enunciado": "¿Quién escribio 'Romeo y Julieta'?",
         "opciones": [
-            "William Shakespeare",
+            "Mark Twain",
             "Jane Austen",
             "Charles Dickens",
-            "Mark Twain"
+            "William Shakespeare"
         ],
         "respuesta_correcta": "William Shakespeare"
     },
@@ -81,8 +81,8 @@
         "enunciado": "¿Cuantas letras tiene la palabra 'elefante'?",
         "opciones": [
             "6",
-            "10",
             "8",
+            "10",
             "12"
         ],
         "respuesta_correcta": "8"
@@ -103,8 +103,8 @@
         "enunciado": "¿Cuantos lados tiene un cuadrado?",
         "opciones": [
             "3",
-            "4",
             "5",
+            "4",
             "6"
         ],
         "respuesta_correcta": "4"
@@ -125,8 +125,8 @@
         "enunciado": "¿Cual es la capital de Japón?",
         "opciones": [
             "Buenos Aires",
-            "Pekín",
             "Tokio",
+            "Pekín",
             "Bangkok"
         ],
         "respuesta_correcta": "Tokio"
