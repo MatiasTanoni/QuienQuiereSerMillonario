@@ -17,6 +17,7 @@ DESCRIPCIÓN:
 Cuando el tiempo esta entre 10 y 15 segundos, se presenta un mensaje en pantalla diciendo "tiene unicamente 30 segundo para jugar en cada pregunta".
 Cuando responde correctamente y pasa a la siguiente pregunta el reloj se resetea a 0
 El jugador pierde cuando se equivoca o llego a los 30 segundos.
+El jugador cuenta con dos comodines (el público y el 50-50)
 El jugador cuando llega al premio de 1000 o 32000 al jugador se le pregunta "¿Desea continuar o retirarse con lo obtenido?" Ya que si el jugador pierde no se lleva ningún premio.
 
 ----------------------------
