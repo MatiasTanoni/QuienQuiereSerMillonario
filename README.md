@@ -7,6 +7,8 @@ FOTO DEL JUEGO:
 
 ![](https://github.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/blob/master/imagenes/Captura%20de%20pantalla%202023-10-26%20230308.png)
 
+FOTO DEL MENU:
+![]()
 DESCRIPCIÓN:
 
 ¿Quien quiere ser millonario? Este juego contiene 15 preguntas de cultura general con 4 opciones por cada pregunta. El jugador va a elegir una opcion y si esta es correcta va a ir subiendo de nivel pudiendo llegar hasta el millon de dolares.
