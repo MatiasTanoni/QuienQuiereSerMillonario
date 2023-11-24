@@ -21,5 +21,5 @@ El jugador cuando llega al premio de 1000 o 32000 al jugador se le pregunta "¿D
 
 ----------------------------
 
-LINK DEL VIDEO: 
+LINK DEL VIDEO:  https://www.youtube.com/watch?v=eN5wvIUkJCg
 
