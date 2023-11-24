@@ -8,6 +8,7 @@ FOTO DEL JUEGO:
 ![](https://github.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/blob/master/imagenes/Captura%20de%20pantalla%202023-10-26%20230308.png)
 
 FOTO DEL MENU:
+
 ![](https://raw.githubusercontent.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/master/imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png?token=GHSAT0AAAAAACJAWQ66XTPVA25VNHBQV2UQZLBDVHA)
 
 DESCRIPCIÓN:
