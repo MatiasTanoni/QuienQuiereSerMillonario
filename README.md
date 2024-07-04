@@ -1,4 +1,4 @@
-# ParcialProgramacion_y_Laboratorio
+# 1er Parcial Programacion y Laboratorio 1
 
 Matias Tanoni 1°D
 DNI:46359695
