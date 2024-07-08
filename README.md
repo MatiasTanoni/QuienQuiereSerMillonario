@@ -1,4 +1,4 @@
-![](https://github.com/MatiasTanoni/QuienQuiereSerMillonario/assets/138217333/b4d8378d-c759-4982-bf7b-d7d9b48449af)# 1er Parcial Programacion y Laboratorio 1
+# 1er Parcial Programacion y Laboratorio 1
 
 **🌈 DESCRIPCIÓN 🌈:**
 
