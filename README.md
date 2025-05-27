@@ -22,4 +22,4 @@ El jugador cuando llega al premio de 1000 o 32000 al jugador se le pregunta "¿D
 
 **FOTO DEL JUEGO 🐧:**
 
-![](https://raw.githubusercontent.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/master/imagenes/Captura%20de%20pantalla%202023-11-24%20190208.png?token=GHSAT0AAAAAACJAWQ66NKOWE3EGRO26KEIIZLBD4EA)
+![](imagenes/Captura de pantalla 2023-11-24 190208.png)
