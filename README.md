@@ -18,7 +18,7 @@ El jugador cuando llega al premio de 1000 o 32000 al jugador se le pregunta "¿D
 
 **FOTO DEL MENU 👑:**
 
-![](https://raw.githubusercontent.com/MatiasTanoni/ParcialProgramacion_y_Laboratorio/master/imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png?token=GHSAT0AAAAAACJAWQ6636PJ7OGZVXRCIYMMZLBD5GQ)
+![](imagenes/imagen_menu.jpg)
 
 **FOTO DEL JUEGO 🐧:**
 
