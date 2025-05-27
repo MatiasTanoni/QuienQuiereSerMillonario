@@ -18,7 +18,7 @@ El jugador cuando llega al premio de 1000 o 32000 al jugador se le pregunta "¿D
 
 **FOTO DEL MENU 👑:**
 
-![](![Captura](imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png))
+![Captura](imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png)
 
 **FOTO DEL JUEGO 🐧:**
 
