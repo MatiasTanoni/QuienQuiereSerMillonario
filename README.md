@@ -1,4 +1,4 @@
-# 1er Parcial Programacion y Laboratorio 1
+# 1er Parcial Programacion I
 
 **🌈 DESCRIPCIÓN 🌈:**
 
