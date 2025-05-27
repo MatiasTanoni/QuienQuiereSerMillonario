@@ -18,7 +18,7 @@ El jugador cuando llega al premio de 1000 o 32000 al jugador se le pregunta "¿D
 
 **FOTO DEL MENU 👑:**
 
-![]([[imagenes/imagen_menu.jpg](https://github.com/MatiasTanoni/QuienQuiereSerMillonario/blob/master/imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png)](https://raw.githubusercontent.com/MatiasTanoni/QuienQuiereSerMillonario/refs/heads/master/imagenes/Captura%20de%20pantalla%202023-11-24%20190208.png))
+![](![Captura](imagenes/Captura%20de%20pantalla%202023-11-24%20185428.png))
 
 **FOTO DEL JUEGO 🐧:**
 
